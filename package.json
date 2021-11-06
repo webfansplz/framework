@@ -41,7 +41,7 @@
     "@types/object-hash": "^2",
     "chai": "^4.3.4",
     "esbuild": "^0.13.12",
-    "eslint": "^8.1.0",
+    "eslint": "^8.2.0",
     "eslint-plugin-jsdoc": "^37.0.3",
     "execa": "^5.1.1",
     "globby": "^11.0.4",
