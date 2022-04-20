@@ -5,7 +5,7 @@
  <p>
   <a href="https://github.com/nuxt/framework/actions?query=branch%3Amain+event%3Apush"><img src="https://github.com/nuxt/framework/workflows/ci/badge.svg?branch=main&event=push" alt="CI Status"></a>
   <a href="https://www.npmjs.com/package/nuxt3"><img src="https://badgen.net/npm/dm/nuxt3" alt="Downloads"></a>
-  <a href="https://www.npmjs.com/package/nuxt3"><img src="https://badgen.net/npm/v/nuxt3" alt="Version"></a>
+  <a href="https://www.npmjs.com/package/nuxt"><img src="https://badgen.net/npm/v/nuxt3" alt="Version"></a>
   <a href="https://www.npmjs.com/package/nuxt3"><img src="https://badgen.net/npm/license/nuxt3" alt="License"></a>
   <a href="https://discord.nuxtjs.org/"><img src="https://badgen.net/badge/Discord/join-us/7289DA" alt="Discord"></a>
  </p>
